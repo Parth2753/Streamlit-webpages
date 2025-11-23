@@ -5,7 +5,7 @@ st.set_page_config(page_title="Parth Rohilla | Portfolio", page_icon="💼", lay
 
 # --- SIDEBAR ---
 with st.sidebar:
-    st.image("https://i.imgur.com/7g6iH3P.png", width=200)  # Replace with your photo URL
+    st.image("https://mail.google.com/mail/u/0?ui=2&ik=a0717bdfea&attid=0.1&permmsgid=msg-a:r-6578503620898569299&th=19ab030ccd13797e&view=att&disp=safe&realattid=19ab030bd27909592ae1&zw", width=200)  # Replace with your photo URL
     st.title("Parth Rohilla")
     st.markdown("**Aspiring Developer | Python & Java Enthusiast**")
     st.markdown("---")
@@ -121,4 +121,5 @@ button[type="submit"]:hover {
 }
 </style>
 """, unsafe_allow_html=True)
+
 
