@@ -10,9 +10,9 @@ with st.sidebar:
     st.markdown("**Aspiring Developer | Python & Java Enthusiast**")
     st.markdown("---")
     st.markdown("📍 India")
-    st.markdown("[📧 Email Me](mailto:your_email@gmail.com)")
-    st.markdown("[🌐 LinkedIn](https://linkedin.com)")
-    st.markdown("[💻 GitHub](https://github.com/)")
+    st.markdown("[📧 Email Me](mailto:parth.rohilla08@gmail.com)")
+    st.markdown("[🌐 LinkedIn](https://www.linkedin.com/in/parth-rohilla-b14919361/)")
+    st.markdown("[💻 GitHub](https://github.com/Parth2753")
     st.markdown("---")
     st.write("© 2025 Parth Rohilla")
 
@@ -44,22 +44,22 @@ with st.container():
     with col1:
         st.subheader("📱 Calculator App")
         st.write("A simple **Java calculator** using command-line interface.")
-        st.markdown("[🔗 View on GitHub](https://github.com/)")
+        st.markdown("[🔗 View on GitHub](https://github.com/Parth2753/)")
     with col2:
-        st.subheader("🧮 Number Checker")
-        st.write("Python program to check **magic numbers** and **Armstrong numbers**.")
-        st.markdown("[🔗 View on GitHub](https://github.com/)")
+        st.subheader("AI Constrcution Waste Management")
+        st.write("A program used to check the registration of waste collected each day ")
+        st.markdown("[🔗 View on GitHub](https://github.com/Parth2753)")
 
 with st.container():
     col1, col2 = st.columns(2)
     with col1:
         st.subheader("🌐 Streamlit Portfolio")
         st.write("This interactive portfolio built using **Streamlit** with Python.")
-        st.markdown("[🔗 View on GitHub](https://github.com/)")
+        st.markdown("[🔗 View on GitHub](https://github.com/Parth2753)")
     with col2:
         st.subheader("🎮 Mini Projects")
         st.write("A collection of small, fun programs made while learning coding.")
-        st.markdown("[🔗 View on GitHub](https://github.com/)")
+        st.markdown("[🔗 View on GitHub](https://github.com/Parth2753)")
 
 # --- EDUCATION SECTION ---
 st.header("🎓 Education")
@@ -121,3 +121,4 @@ button[type="submit"]:hover {
 }
 </style>
 """, unsafe_allow_html=True)
+
