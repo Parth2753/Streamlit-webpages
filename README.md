@@ -37,6 +37,6 @@ It is simple, fast, minimal and easy to deploy.
 - ⚡ Fast & responsive  
 
 ## ▶️ **Run This Project Locally**
-streamlit run streamlit_profile.py
+streamlit run portfolio.py
 
 
