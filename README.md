@@ -12,7 +12,7 @@
 ---
 
 # 👨‍💻 **CODER: PARTH ROHILLA**
-A passionate self-taught developer exploring **AIML, Java, Python, and DSA**, and building clean, functional, and modern projects.
+A passionate self-taught developer exploring **AIML, Java, Python, and Frameworks**, and building clean, functional, and modern projects.
 
 ---
 
